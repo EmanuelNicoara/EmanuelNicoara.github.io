@@ -1,0 +1,33 @@
+body,
+html{
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background: url(laptop-macbook.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    font-size: 3rem;
+    color:#366fa8 ;
+}
+hr{
+    border-color:#178a55 ;
+    border-width: 3px;
+}
+.btn{
+    font-weight: 700;
+    border-radius: 300px
+}
+.btn-primary{
+    background-color: #dc291b;
+    border-color: #70ec38;
+}
+.btn-primary:hover{
+    background-color: #178a55;
+}
+.btn-xl{
+padding: 1rem 2rem;
+}
